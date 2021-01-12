@@ -1,0 +1,112 @@
+{
+  "links": {
+    "home": "Home"
+  },
+  "error" :{
+    "notEpty" : "Required"
+  },
+  "general": {
+    "title" : "Hami System",
+    "subject" : "Title",
+    "save": "Save",
+    "reset": "Reset",
+    "search" : "search ... ",
+    "date" : "Date",
+    "action" : "Action",
+    "name" : "Name",
+    "createdate" : "Creation date",
+    "OrganizationOwners" : "Organization Owners",
+    "account": "Account",
+    "setting" : "Setting",
+    "logout" : "Logout",
+    "copyRight" : "Create with ",
+    "description" : "Description",
+    "rolename" : "Role Name",
+    "roletitle" : "Role title",
+    "manager": "Manager",
+    "success" : "Data inserted .",
+    "organization": "Oganization",
+    "project": "Projects",
+    "client": "Client",
+    "device": "Device",
+    "traffic" :"API Traffic",
+    "visits" : "API visit",
+    "permisstionTitle" : "Permisstion Title",
+    "permisstionName" : "Permisstion Name",
+    "fill-field-message" : "Please fill all fields.",
+    "error-subject" : "Error !",
+    "success-subject" : "Suceess !",
+    "ok" : "ok",
+    "close" : "Close",
+    "detail":"detail"
+  },
+  "home": {
+    "title": "welcome",
+    "welcome" : "welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "aboute Us"
+  },
+  "organization":{
+    "title": "Organizations",
+    "name": "Organization Name",
+    "externalorg": "Create organization",
+    "select": "Select  organization",
+    "role": "Permissions",
+    "owner": "Create new owner for organization",
+    "ownerName" : "User",
+    "ownerFirstName" : "First name",
+    "ownerLastName" : "Last name"
+  },
+  "externalorganization":{
+    "title": "External organizations",
+    "name": "External Organization Name",
+    "externalorg": "Create External organization",
+    "select": "Select external organization",
+    "role": "Roles"
+  },
+  "client":{
+    "pagetitle": "Client list",
+    "name": "name",
+    "createClient": "Create new client",
+    "title1": "Select organization",
+    "title2": "Select external organization",
+    "id": "Client id",
+    "clientname" : "name",
+    "role": "دسترسی ها",
+    "externalorgclient" : "External organization clients"
+  },
+  "project":{
+    "title" : "title",
+    "name" : "name",
+    "pagetitle": "Project list",
+    "createproject": "Create new Project",
+    "select": "Select project",
+    "title1": "Select project name",
+    "title2": "Select  project name",
+    "createmember": "Add new Member"
+  },
+  "permission":{
+    "pagetitle": "Permission list",
+    "createpermission": "Create new Permission",
+    "name" : "Permission name",
+    "title" : "Permission title"
+  },
+  "roles":{
+    "roles" : "Roles",
+    "pagetitle": "Roles list",
+    "createroles": "Create new Role",
+    "name" : "Role name",
+    "title" : "Role title"
+  },
+  "resource":{
+    "pagecreate" : "Create new Resource",
+    "title": "Resource",
+    "resourcename": "Name",
+    "resourcetitle": "Title",
+    "pagetitle": "Resource list",
+    "select": "Select resource name",
+    "createresource": "Create new Resource"
+  }
+}

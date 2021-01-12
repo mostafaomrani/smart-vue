@@ -1,0 +1,108 @@
+{
+  "links": {
+    "home": "خانه"
+  },
+  "error" :{
+    "notEpty" : "فیلد اجباری"
+  },
+  "general": {
+    "title": "شهید بهشتی",
+    "subject": "عنوان",
+    "save": "ذخیره",
+    "reset": "پاک کردن فرم",
+    "search": "جستجو ... ",
+    "date": "تاریخ",
+    "action": "عملیات",
+    "name": "نام",
+    "createdate": "تاریخ ایجاد",
+    "Organization Owners" : "مدیر سازمان",
+    "account": "حساب کاربری",
+    "setting" : "تنظیمات",
+    "logout" : "خروج",
+    "copyRight" : "ساخته شده با",
+    "description" : "توضیحات",
+    "rolename" : "نام دسترسی",
+    "roletitle" : "عنوان دسترسی",
+    "manager": "مدیر",    
+    "success" : "اطلاعات با موفقیت ذخیره شد.",
+    "organization": "سازمان",
+    "project": "پروژه",
+    "client": "کلاینت",
+    "device": "دستگاه",
+    "traffic" :"ترافیک سایت",
+    "visits" : "نمایش",
+    "permisstionTitle" : "عنوان دسترسی",
+    "permisstionName" : "نام دسترسی",
+    "fill-field-message" : "لطفا تمامی فیلدها را پر نمایید .",
+    "error-subject" : "خطا !",
+    "success-subject" : "خوبه !",
+    "ok" : "باشه",
+    "close" : "بستن",
+    "detail":"جزییات"
+  },
+  "home": {
+    "title": "خوش آمدید",
+    "welcome": "خوش آمدید",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "aboute Us"
+  },
+  "organization": {
+    "title": "سازمان اصلی",
+    "name": "نام سازمان",
+    "externalorg": "ایجاد سازمان جدید",
+    "select": "سازمان مورد نظر را انتخاب نمایید.",
+    "role": "دسترسی ها",
+    "owner": "مدیر",
+    "ownerName":"کاربر",
+    "ownerFirstName" : "نام",
+    "ownerLastName" : "نام خانوادگی"
+  },
+  "externalorganization": {
+    "title": "سازمان خارجی",
+    "name": "نام سازمان خارجی",
+    "externalorg": "ایجاد سازمان خارجی",
+    "select": "لطفا سازمان خارجی را انتخاب نمایید .",
+    "role": "دسترسی ها",
+    "externalorgclient" : "کلاینت های سازمان های خارجی"
+  },
+  "client": {
+    "pagetitle": "لیست کلاینت ها",
+    "name": "نام کلاینت",
+    "createClient": " جدید کلاینت جدید",
+    "clientname" : "نام کلاینت",
+    "title1": "لطفا ابتدا سازمان مورد نظر را انتخاب نمایید .",
+    "title2": "لطفا  سازمان  خارجی مورد نظر را انتخاب نمایید .",
+    "id": "شناسه کاربر",
+    "role": "دسترسی ها"
+  },
+  "project": {
+    "title" : "پروژه",
+    "name" : "نام پروژه",
+    "pagetitle": "لیست پروژه ها",
+    "createproject": "ساخت پروژه جدید",
+    "select": "نام پروژه را انتخاب نمایید .",
+    "title1": "انتخاب پروژه جدید",
+    "title2": "انتخاب نام پروژه ",
+    "createmember": "ایجاد عضو جدید"
+  },
+  "permission":{
+    "pagetitle": "لیست دسترسی ها",
+    "createpermission": "ساخت دسترسی جدید",
+    "name" : "نام دسترسی",
+    "title" : "عنوان دسترسی"
+  },
+  "roles":{
+    "pagetitle": "لیست نقش ها",
+    "createrole": "ساخت نقش جدید",
+    "name" : "نام نقش",
+    "title" : "عنوان نقش"
+  },
+  "resource":{
+    "title": "منبع",
+    "resourcename": "نام منبع",
+    "select": "نام منبع را انتخاب نمایید",
+    "createresource": "ساخت منبع جدید"
+  }
+}
